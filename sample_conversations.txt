@@ -1,0 +1,39 @@
+Conversation 1
+
+English Speaker
+English: Good morning! How are you today?
+Tamil: காலை வணக்கம்! நீங்கள் எப்படி இருக்கிறீர்கள்?
+Pronunciation: Kaalai vanakkam! Neengal eppadi irukkireergal?
+
+LOTE Speaker
+English: I am fine, thank you. And you?
+Tamil: நான் நலமாக இருக்கிறேன், நன்றி. நீங்களோ?
+Pronunciation: Naan nalamaga irukkiren, nandri. Neengalo?
+
+---
+
+Conversation 2
+
+English Speaker
+English: Where is the nearest hospital?
+Tamil: மிகவும் அருகில் உள்ள மருத்துவமனை எங்கே உள்ளது?
+Pronunciation: Migavum arugil ulla maruththuvamanaai enge ulladu?
+
+LOTE Speaker
+English: It is about two kilometres from here. Take the first left turn.
+Tamil: இங்கிருந்து சுமார் இரண்டு கிலோமீட்டர் தொலைவில் உள்ளது. முதல் இடது திருப்பம் எடுங்கள்.
+Pronunciation: Ingirundhu sumaar irandu kilomeettar thollaivil ulladu. Mudhal idadu thiruppam eduungal.
+
+---
+
+Conversation 3
+
+English Speaker
+English: I need to make an appointment with the doctor.
+Tamil: எனக்கு மருத்துவரிடம் ஒரு சந்திப்பு வேண்டும்.
+Pronunciation: Enakku maruththuvariddam oru sandhippu vendum.
+
+LOTE Speaker
+English: Of course. What day would suit you?
+Tamil: நிச்சயமாக. உங்களுக்கு எந்த நாள் வசதியாக இருக்கும்?
+Pronunciation: Nichchayamaga. Ungalukkku enda naal vasadhiyaga irukkum?
